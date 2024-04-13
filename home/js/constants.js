@@ -13,7 +13,7 @@ const tarjetas = [
     {
       titulo: "Ti amuu",
       descripcion: 'de aquí a la luna y de regreso con pasitos de tortuga 🐢, de pingüino 🐧, de Toulouse 🐈 y de pollito 🐥',
-      imagen: "./images/pop.jpg",
+      imagen: "./images/felices.jpg",
     },    
   ];
   

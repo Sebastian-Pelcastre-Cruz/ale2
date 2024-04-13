@@ -10,7 +10,7 @@ let currentIndex = 0;
 siguienteButton.addEventListener("click", submit);
 
 function submit() {
-  currentIndex = (currentIndex + 1) % tarjetas.length; // Incrementa el índice y lo vuelve a cero si llega al final del array
+  currentIndex = currentIndex + 1 // Incrementa el índice y lo vuelve a cero si llega al final del array
   const tarjetaActual = tarjetas[currentIndex];
 
   // Aplicar animación a los textos
@@ -31,4 +31,7 @@ function submit() {
     titulo.classList.add("animate__backInDown", "animated");
     descripcion.classList.add("animate__backInDown", "animated");
   }, 500); // Espera 0.5 segundos (500 milisegundos) antes de actualizar el contenido y aplicar las nuevas animaciones
+  if(currentIndex == tarjetas.length){
+    location.href = '../indice/index.php'
+  }
 }
