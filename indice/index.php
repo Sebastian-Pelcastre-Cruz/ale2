@@ -21,7 +21,7 @@
                         <div class="p-6" bis_skin_checked="1">
                             <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">CATEGORY</h2>
                             <h1 class="title-font text-lg font-medium text-white mb-3">Mis momentos favoritos</h1>
-                            <p class="leading-relaxed mb-3">Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.</p>
+                            <p class="leading-relaxed mb-3">Me encanta pasar cada momento juntos y aquí estarán algunos de mis favoritos, aunque fue complicado elegir porque me han gustado todos y cada uno :3.</p>
                             <div class="flex items-center flex-wrap " bis_skin_checked="1">
                                 <a class="text-indigo-400 inline-flex items-center md:mb-2 lg:mb-0">Learn More
                                     <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
